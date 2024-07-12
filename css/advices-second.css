@@ -25,11 +25,12 @@
 
 .advices-second__image-near {
   max-width: 1080px;
-  margin-bottom: 15px;
+  
 }
 
 .advices-second__figure-bordered {
-  border: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 .advices-second__addition {
@@ -37,7 +38,13 @@
   font-size: 20px;
   line-height: 120%;
   color: #5e5e5e;
-  margin-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.advices-second__addition_bordered {
+  border-left:1px solid black ;
+  border-right:1px solid black ;
 }
 
 .advices-second__image-nesting {
