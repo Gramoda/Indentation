@@ -1,0 +1,22 @@
+
+.tenor__title {
+  font-weight: 700;
+  font-size: 44px;
+  margin-bottom: 20px;
+  line-height: 120%;
+}
+
+.tenor__list {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  color: #02535f;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  padding-left: 25px;
+}
+
+.tenor__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+

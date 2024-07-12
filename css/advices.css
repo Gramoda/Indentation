@@ -1,0 +1,33 @@
+.advices__wrapper-margin {
+  margin-bottom: 30px;
+}
+
+.advices__title {
+  
+  margin-bottom: 35px;
+}
+
+.advices__image-margin {
+  max-width: 560px;
+  height: auto;
+  display: inline-block;
+  margin-right: 30px;
+
+}
+
+.advices__figcaption {
+  display: inline-block;
+  max-width: 480px;
+  vertical-align: top;
+}
+
+.advices__image-padding {
+  display: inline-block;
+  vertical-align: top;
+  max-width: 560px;
+  
+}
+
+.advices__figcaption_left {
+  margin-right: 35px;
+}

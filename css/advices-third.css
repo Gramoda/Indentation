@@ -1,0 +1,41 @@
+.advices-third__title {
+  margin-bottom: 30px;
+}
+
+.advices-third__image-delete {
+  max-width: 600px;
+  margin:0 auto;
+}
+
+.advices-third__image_margin {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.advices-third__image_margin:last-child {
+  margin-bottom: 0px;
+}
+
+.advices-third__figcaption {
+  margin-bottom: 30px;
+}
+
+.advices-third__figure:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.advices-third__image-showup {
+  max-width: 600px;
+}
+
+.advices-third__image-methed-code {
+  max-width: 806px;
+}
+
+.advices-third__image-li {
+  max-width: 317px;
+}
+
+.advices-third__image-last-child {
+  max-width: 500px;
+}

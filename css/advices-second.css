@@ -1,0 +1,51 @@
+.advices-second__title {
+  margin-bottom: 30px;
+}
+
+.advices-second__figcaption {
+  margin-bottom: 30px;
+}
+
+.advices-second__figure {
+  margin-bottom: 30px;
+}
+
+.advices-second__image:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.mage-code {
+  max-width: 1080px;
+}
+
+.image-list {
+  max-width: 600px;
+  margin: auto;
+}
+
+.advices-second__image-near {
+  max-width: 1080px;
+  margin-bottom: 15px;
+}
+
+.advices-second__figure-bordered {
+  border: 1px solid black;
+}
+
+.advices-second__addition {
+  padding-left: 30px;
+  font-size: 20px;
+  line-height: 120%;
+  color: #5e5e5e;
+  margin-bottom: 15px;
+}
+
+.advices-second__image-nesting {
+  max-width: 964px;
+  margin:0 auto;
+}
+
+.advices-second__image-padding {
+  max-width: 1022px;
+  margin: 0 auto;
+}
